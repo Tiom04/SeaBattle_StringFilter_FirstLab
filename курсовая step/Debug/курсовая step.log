@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\Step IT Academy\курсовая step\курсовая step\Source.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\Step IT Academy\курсовая step\курсовая step\Source.cpp(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Step IT Academy\курсовая step\курсовая step\Source.cpp(120,28): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Admin\Desktop\Step IT Academy\курсовая step\курсовая step\Source.cpp(120,42): warning C4804: '>': unsafe use of type 'bool' in operation
+  курсовая step.vcxproj -> C:\Users\Admin\Desktop\Step IT Academy\курсовая step\Debug\курсовая step.exe
